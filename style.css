@@ -7,7 +7,7 @@ h1{color:darkblue;
 h4{color:white;
         
         }
-body{background:DarkSlateGray;
+body{background-image: linear-gradient(DimGrey, DimGray, DarkSlateGray, DarkSlateGray, DarkSlateGray, DarkSlateGray);
      font-family:"Sans-serif", Arial;
      color:white;
           }
