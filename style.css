@@ -1,1 +1,15 @@
-
+ .header{background:Gray;
+             text-align:center;
+             }
+      h1{color:darkblue;
+        text-align:center;
+        }
+      h4{color:white;
+        
+        }
+      body{background:DarkSlateGray;
+          font-family:"Sans-serif", Arial;
+          }
+      p{color:white;}
+      html{background:DarkSlateGray;}
+      .shortline{width="200px"}
