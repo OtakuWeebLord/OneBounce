@@ -1,4 +1,4 @@
-.header{background-image: linear-gradient(DimGray, DarkSlateGrey);
+.header{background-image: linear-gradient(to right, to left, DimGray, DarkSlateGrey);
         text-align:center;
              }
 h1{color:darkblue;
