@@ -8,12 +8,14 @@ h4{color:white;
         
         }
 body{
-     background:DarkSlateGray;
+     background:background-image: linear-gradient( DimGray, DarkSlateGray);
      font-family:"Sans-serif", Arial;
      color:white;
           }
 p{color:white;}
 ul{color:white;}
 li{oclor:white;}
-html{background-image: linear-gradient( DimGray, DarkSlateGray;}
+html{
+        background-image: linear-gradient( DimGray, DarkSlateGray;)
+    }
 .shortline{width="25%"}
