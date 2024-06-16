@@ -2,7 +2,7 @@ e.header{
         text-align:center;
              }
 h1{
-         background: linear-gradient(to right, DarkBlue , LightBlue);
+         background: linear-gradient(to right, DarkBlue, LightBlue);
         -webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
         text-align:center;
