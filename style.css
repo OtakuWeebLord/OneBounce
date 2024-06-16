@@ -2,9 +2,7 @@
         text-align:center;
              }
 h1{
-         background: -webkit-linear-gradient(LightBlue, DarkBlue);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+         background: linear-gradient(LightBlue, DarkBlue);
         text-align:center;
         }
 h4{color:white;
