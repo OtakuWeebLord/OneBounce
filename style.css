@@ -1,11 +1,10 @@
-e.header{
+.header{
         text-align:center;
              }
 h1{
          background: linear-gradient(to right, Aqua, MediumBlue);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-        text-align:center;
         }
 h4{color:white;
         
