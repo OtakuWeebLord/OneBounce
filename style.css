@@ -11,7 +11,7 @@ h4{color:white;
         
         }
 body{
-     background-image: linear-gradient(DimGray, DarkSlateGray, Black);
+     background-image: linear-gradient(Black, DarkSlateGray, DimGray);
      font-family:"Sans-serif", Arial;
      color:white;
           }
