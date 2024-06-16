@@ -1,4 +1,4 @@
-.header{background:Black;
+.header{background:DimGray;
         text-align:center;
              }
 h1{color:darkblue;
@@ -8,7 +8,7 @@ h4{color:white;
         
         }
 body{
-     background-image: linear-gradient(DimGray, DarkSlateGray);
+     background-image: linear-gradient(DimGray, DimGray, DarkSlateGray);
      font-family:"Sans-serif", Arial;
      color:white;
           }
