@@ -2,7 +2,7 @@
         text-align:center;
              }
 h1{
-         background: linear-gradient(LightBlue, DarkBlue);
+         background: linear-gradient(to right, LightBlue, DarkBlue);
         text-align:center;
         }
 h4{color:white;
