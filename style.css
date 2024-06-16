@@ -1,7 +1,10 @@
 .header{
         text-align:center;
              }
-h1{color: linear-gradient(to right, LightBlue, DarkBlue);
+h1{
+         background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         text-align:center;
         }
 h4{color:white;
