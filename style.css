@@ -3,6 +3,8 @@
              }
 h1{
          background: linear-gradient(to right, red , LightBlue);
+        -webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
         text-align:center;
         }
 h4{color:white;
