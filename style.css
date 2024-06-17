@@ -15,7 +15,9 @@ body{
      color:white;
           }
 p{color:white;}
-ul{color:white;}
+ul{color:white;
+  font-size:30px;
+  }
 li{oclor:white;}
 html{
         background-image: linear-gradient(DimGray, DarkSlateGray;)
