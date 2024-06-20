@@ -23,3 +23,6 @@ html{
         background-image: linear-gradient(DimGray, DarkSlateGray;)
     }
 .shortline{width="25%"}
+a{
+        font-size:20px;
+}
